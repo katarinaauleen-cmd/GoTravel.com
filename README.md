@@ -1,9 +1,29 @@
-KELOMPOK 14
+# GoTravel
 
-Auleen Katarina - 2802392980
+GoTravel is a travel booking and destination recommendation website
+designed to help users discover and plan their trips based on their
+budget and preferred travel vibes.
 
-Claymore Lie Bermann - 2802392406
+## About the Project
 
-Kayne Kusnadi - 2802405150
+GoTravel makes it easier for users to find suitable travel destinations
+and book their trips in one platform.
 
-Devon Ian Suryono - 2802388636
+The recommendation feature helps users discover destinations that
+match their preferred budget and travel vibes.
+
+## Features
+
+- 🎫 Travel destination and ticket booking
+- 💰 Budget-based destination recommendations
+- ✨ Vibe-based destination recommendations
+- 🌍 Destination exploration
+- 📋 Travel information
+- 🎨 User-friendly interface
+
+## Technologies
+
+- Python
+- HTML
+- CSS
+- JavaScript
